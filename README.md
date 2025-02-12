@@ -44,13 +44,13 @@ To run this project, you need to have Python installed along with the required l
 
 ## Results
 ### Visualizations
-![Actual vs Predicted](path/to/actual_vs_predicted.png)
-![Feature Importance](path/to/feature_importance.png)
-![Sales Distribution](path/to/sales_distribution.png)
-![Monthly Sales Trend](path/to/monthly_sales_trend.png)
+![Actual vs Predicted](./actual_vs_predicted.png)
+![Feature Importance](./feature_importance.png)
+![Sales Distribution](./sales_distribution.png)
+![Monthly Sales Trend](./monthly_sales_trend.png)
 
 ## Architecture
-![Architecture Diagram](path/to/architecture_diagram.png)
+![Architecture Diagram](./architecture.png)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
